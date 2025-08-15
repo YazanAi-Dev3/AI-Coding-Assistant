@@ -4,7 +4,7 @@ This project is a sophisticated, hybrid chatbot designed to function as an intel
 
 The system is designed to run entirely offline, utilizing locally stored models, and features a self-improving knowledge base.
 
-## ✨ Key Features
+##  Key Features
 
 -   **Hybrid RAG System:** Intelligently switches between retrieving pre-existing answers for known topics and generating new answers for novel questions, ensuring both speed and accuracy.
 -   **High-Accuracy Retrieval:** Uses a state-of-the-art `multi-qa-mpnet-base-dot-v1` model, fine-tuned for semantic search, to find the most relevant answers from its knowledge base with high precision.
@@ -15,7 +15,7 @@ The system is designed to run entirely offline, utilizing locally stored models,
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The chatbot operates on a two-path logic:
 
@@ -26,7 +26,7 @@ The chatbot operates on a two-path logic:
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 
 This project relies on two main models that must be downloaded manually.
 
@@ -37,13 +37,13 @@ This project relies on two main models that must be downloaded manually.
 
 ---
 
-## ⚙️ Setup and Installation
+##  Setup and Installation
 
 To run this project on your local machine, please follow these steps carefully:
 
 1.  **Clone the Repository:**
     ```sh
-    git clone [Your-Repo-URL]
+    git clone [https://github.com/YazanAi-Dev3]
     cd AI-Coding-Assistant
     ```
 
@@ -74,7 +74,7 @@ To run this project on your local machine, please follow these steps carefully:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 Once the setup is complete, you can run the interactive demo:
 
